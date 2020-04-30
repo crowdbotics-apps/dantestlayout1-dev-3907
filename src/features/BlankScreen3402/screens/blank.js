@@ -30,11 +30,6 @@ export class _Blank extends React.Component {
         color="#2196F3"
         styles={{ overflow: "visible", borderStyle: "solid" }}
       />
-      <Button
-        title="Button"
-        color="#2196F3"
-        styles={{ overflow: "visible", borderStyle: "solid" }}
-      />
     </View>
   )
 }
